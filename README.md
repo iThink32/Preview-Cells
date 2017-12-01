@@ -1,4 +1,4 @@
-# Preview-Cells
+# CollectionView Preview-Cells
 Collection View Preview Cells
 
 This is a UICollectionViewFlowLayout class which helps you create preview cells ,just set the item size , minimum interim spacing and section inset in prepare() and you'r good to go.
