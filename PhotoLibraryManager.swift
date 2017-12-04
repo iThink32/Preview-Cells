@@ -1,9 +1,7 @@
 //
 //  PhotoLibraryManager.swift
-//  SnapCodes
 //
 //  Created by Shashank  on 1/29/16.
-//  Copyright © 2016 Softway Solutions. All rights reserved.
 //
 
 import UIKit
